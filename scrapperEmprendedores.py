@@ -9,7 +9,7 @@ import pandas as pd
 import requests
 
 #Inicializar la variable contenedora del controlador de Edge
-driver = webdriver.Edge(r"C:\Users\Natyy\OneDrive\Escritorio\reto-talentpitch\msedgedriver.exe")
+driver = webdriver.Edge(r"rutaDelDriverDeSelenium")
 #abrir la página de emprendedores
 paginaElEconomista = "https://www.eleconomista.es/pymes/"
 driver.get(paginaElEconomista)
