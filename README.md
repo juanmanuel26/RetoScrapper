@@ -1,2 +1,0 @@
-# RetoScrapper
-Reto Scrapper TalentPitch
